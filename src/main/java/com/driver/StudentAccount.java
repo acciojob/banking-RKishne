@@ -3,11 +3,8 @@ package com.driver;
 public class StudentAccount extends BankAccount{
 
     String  institutionName;
-
     public String getInstitutionName() {
         return institutionName;
-
-
     }
 
     public void setInstitutionName(String institutionName) {
